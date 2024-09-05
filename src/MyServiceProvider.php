@@ -1,9 +1,9 @@
 <?php
 namespace Vendor\bkash;
 
-use Illuminate\Support\ServiceProvider;
 
-class MyServiceProvider extends ServiceProvider{
+
+class MyServiceProvider{
 
     /**
      * Register any package services.
